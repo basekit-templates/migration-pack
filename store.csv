@@ -1,0 +1,12 @@
+Handle,Title,Description,Visible,Track stock,Stock warning level,Allow purchase when stock is zero,Category,Tags,Image,Option names,Option values,Price,SKU,Weight,Stock
+backpack,Backpack,"Canvas fabric, external pockets, 100% polyester",yes,yes,10,no,accessories,backpack;2015 collection,https://upload.wikimedia.org/wikipedia/commons/d/d7/Rucksack1.jpg,,,35,backpack,500,30
+,,,,,,,,,,,,,,,
+tshirt,T-Shirt,"Crew neck, 100% cotton",yes,yes,20,yes,clothing,t-shirt;2016 collection,https://upload.wikimedia.org/wikipedia/commons/2/24/Blue_Tshirt.jpg,Size;Color,Small;Blue,18,tshirt-s-blue,500,30
+tshirt,,,,,,,,,,,Large;Blue,18,tshirt-l-blue,500,25
+tshirt,,,,,,,,,,,Small;Green,18,tshirt-s-green,500,30
+tshirt,,,,,,,,,,,Large;Green,18,tshirt-l-green,500,40
+,,,,,,,,,,,,,,,
+jumper,Jumper,"Crew neck, regular fit",yes,no,15,no,clothing,jumper;2016 collection,https://upload.wikimedia.org/wikipedia/en/f/fe/Jumper_altered_PsCSJPG10.jpg,Size;Color,Small;Grey,22,jumper-s-grey,300,20
+jumper,,,,,,,,,,,Large;Grey,22,jumper-l-grey,300,20
+jumper,,,,,,,,,,,Small;Black,25,jumper-s-black,300,20
+jumper,,,,,,,,,,,Large;Black,25,jumper-l-black,300,20
